@@ -5,12 +5,17 @@ I build modern, responsive pages and websites focused on timed-delivery & meetin
 ## What I do
 - Develop frontend applications from idea to product  
 - Turn designs into hand-typed code  
-- Solve problems with practical, user-friendly solutions
 
 ## Tech stack
 - HTML, CSS, JavaScript  
 - React  
 - Tailwind CSS  
+
+## Other(s)
+- Github/Git
+- ChatGPT
+- VSCode
+- Vercel & Netlify
 
 ## Projects
 
@@ -20,24 +25,23 @@ Remake of a landingpage for a product.
 
 ## How I work
 - Follow client specifications closely and deliver on time  
-- Build real, working applications—not just demos  
 - Continuously improve through hands-on projects
 
 ## Current focus
-- Enhancing UI/UX and component architecture  
+- Enhancing UI/UX
 - Strengthening JavaScript and React skills  
 - Contributing to open-source projects  
 - Open to client work  
 
 ## Goals
 - Learn fullstack development (Next.js)  
-- Expand presence on social media to share projects  
+- Expand presence on social media 
 
 ## Mindset
 - I learn quickly using AI tools like ChatGPT, tutorials, and hands-on practice  
-- I plan just enough, start building, and seek advice to refine layouts, functionality, and project quality  
-- I ask questions to clarify, explore options, and solve problems effectively  
-- I’m open to feedback and focus on growth and delivering results
+- I plan just enough, start building, and seek advice to refine layouts & functionality  
+- I ask questions to clarify, explore options, and solve problems
+- I’m open to feedback and focus on delivering results in time
 
 ## Contact
 
