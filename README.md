@@ -12,6 +12,12 @@ I build modern, responsive pages and websites focused on timed-delivery & meetin
 - React  
 - Tailwind CSS  
 
+## Projects
+
+### LANDINGPAGE (REMAKE)
+Remake of a landingpage for a product.
+[Live Demo](https://landingpage-two-rust-99.vercel.app/) | [GitHub Repo](https://github.com/ammarr80/LANDINGPAGE-REMAKE)
+
 ## How I work
 - Follow client specifications closely and deliver on time  
 - Build real, working applications—not just demos  
