@@ -1,10 +1,10 @@
 # Ammar
 
-I build modern, responsive web applications focused on clean design, performance, and real-world usability.
+I build modern, responsive pages and websites focused on timed-delivery & meeting client expectations.
 
 ## What I do
 - Develop frontend applications from idea to product  
-- Turn designs into functional, maintainable code  
+- Turn designs into hand-typed code  
 - Solve problems with practical, user-friendly solutions
 
 ## Tech stack
