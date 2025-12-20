@@ -39,7 +39,7 @@ You can reach me through any of the following:
 
 - **Email:** ammarrusesthis80@gmail.com  
 - **WhatsApp:** +923117352471
-- **GitHub:** [github.com/ammarr](https://github.com/ammarr)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Twitter/X:** [twitter.com/yourhandle](https://twitter.com/yourhandle)  
-- **Portfolio/Website:** [yourwebsite.com](https://yourwebsite.com)
+- **GitHub:** [github.com/ammarr80](https://github.com/ammarr80)  
+- **LinkedIn:** [linkedin.com/in/Muhammad Ammar](https://www.linkedin.com/in/muhammad-a-2b6736352/)  
+- **Twitter/X:** [twitter.com/ammarr80_j](https://x.com/ammarr80_)  
+
