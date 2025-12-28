@@ -21,10 +21,9 @@ I build modern, responsive pages and websites focused on timed-delivery & meetin
 
 ### LANDINGPAGE (INTERIOR DESIGN)
 A landingpage for an interior design business focusing on walls & ceilings.
-[Live Demo](https://interior-design-landingpage-pi.vercel.app/) | [GitHub Repo](https://github.com/ammarr80/LANDINGPAGE-REMAKE)
+[Live Demo](https://interior-design-landingpage-pi.vercel.app/) | [GitHub Repo](https://github.com/ammarr80/INTERIOR-DESIGN-LANDINGPAGE)
 
-## How I work
-- Follow client specifications closely and deliver on time  
+## How I work- Follow client specifications closely and deliver on time  
 - Continuously improve through hands-on projects
 
 ## Current focus
