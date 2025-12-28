@@ -19,9 +19,9 @@ I build modern, responsive pages and websites focused on timed-delivery & meetin
 
 ## Projects
 
-### LANDINGPAGE (REMAKE)
-Remake of a landingpage for a product.
-[Live Demo](https://landingpage-two-rust-99.vercel.app/) | [GitHub Repo](https://github.com/ammarr80/LANDINGPAGE-REMAKE)
+### LANDINGPAGE (INTERIOR DESIGN)
+A landingpage for an interior design business focusing on walls & ceilings.
+[Live Demo](https://interior-design-landingpage-pi.vercel.app/) | [GitHub Repo](https://github.com/ammarr80/LANDINGPAGE-REMAKE)
 
 ## How I work
 - Follow client specifications closely and deliver on time  
