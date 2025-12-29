@@ -29,8 +29,7 @@ A landingpage for an interior design business focusing on walls & ceilings.
 
 ## Current focus
 - Enhancing UI/UX
-- Strengthening JavaScript and React skills  
-- Contributing to open-source projects  
+- Building projects for portfolio
 - Open to client work  
 
 ## Goals
